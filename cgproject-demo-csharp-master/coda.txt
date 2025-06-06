@@ -1,0 +1,73 @@
+
+
+using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Drawing.Drawing2D;
+using System.Linq;
+using System.Text;
+
+namespace Draw.src.Model
+{
+    internal class ExamShape4: Shape
+    {
+        public ExamShape4(RectangleF rect) : base(rect) { }
+
+        public ExamShape4(RectangleShape rectangle) : base(rectangle) { }
+
+        public override bool Contains(PointF point)
+        {
+            if (dialogProcessor.Selections != null)
+            {
+                // Rotate the point in the opposite direction so the rectangle is axis-aligned
+                PointF transformedPoint = RotatePoint(point, Center, -AngleDegree);
+
+                // Check if the transformed point is within the unrotated bounding box
+                return (transformedPoint.X >= Rectangle.X &&
+                        transformedPoint.X <= Rectangle.X + Rectangle.Width &&
+                        transformedPoint.Y >= Rectangle.Y &&
+                        transformedPoint.Y <= Rectangle.Y + Rectangle.Height);
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public override void DrawSelf(Graphics grfx)
+        {
+            base.DrawSelf(grfx);
+
+            GraphicsState state = grfx.Save();
+
+            //въртенето
+            using (Matrix matrix = new Matrix())
+            {
+                matrix.RotateAt(AngleDegree, Center);
+                grfx.Transform = matrix;
+            }
+
+            //рисуването на правоъгълника
+            using (Pen pen = new Pen(StrokeColor, StrokeWidth))
+            {
+                grfx.DrawRectangle(pen, Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+                grfx.DrawLine(pen, new Point((int)(Rectangle.X), (int)Rectangle.Y), new Point((int)(Rectangle.X + Rectangle.Width), (int)(Rectangle.Y + Rectangle.Height)));
+                grfx.DrawLine(pen, new Point((int)(Rectangle.X), (int)(Rectangle.Y + Rectangle.Height)), new Point((int)(Rectangle.X + Rectangle.Width), (int)(Rectangle.Y)));
+
+            }
+
+            //градиента
+            using (LinearGradientBrush linGrBrush = new LinearGradientBrush(
+                new PointF(Rectangle.X, Rectangle.Y),
+                new PointF(Rectangle.X + Width, Rectangle.Y + Height),
+                Color.FromArgb((int)FillOpacity, FillColor),
+                Color.FromArgb((int)FillOpacity, GradientColor)))
+            {
+                grfx.FillRectangle(linGrBrush, Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+            }
+
+
+            grfx.Restore(state);
+        }
+    }
+}

@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vsichko keto nqma smisul\\nz\\gui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|d:\\vsichko keto nqma smisul\\nz\\gui\\src\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\vsichko keto nqma smisul\\nz\\gui\\src\\processors\\dialogprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\processors\\dialogprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\vsichko keto nqma smisul\\nz\\gui\\src\\processors\\displayprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\processors\\displayprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\vsichko keto nqma smisul\\nz\\gui\\src\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\vsichko keto nqma smisul\\nz\\gui\\src\\model\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\vsichko keto nqma smisul\\nz\\gui\\src\\model\\rectangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\rectangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\vsichko keto nqma smisul\\nz\\gui\\src\\model\\elipsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\elipsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\vsichko keto nqma smisul\\nz\\gui\\src\\model\\points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\vsichko keto nqma smisul\\nz\\gui\\src\\model\\lines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\lines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\vsichko keto nqma smisul\\nz\\gui\\src\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\vsichko keto nqma smisul\\nz\\gui\\src\\model\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Star.cs",
+              "DocumentMoniker": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Model\\Star.cs",
+              "RelativeDocumentMoniker": "src\\Model\\Star.cs",
+              "ToolTip": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Model\\Star.cs",
+              "RelativeToolTip": "src\\Model\\Star.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:32:48.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\GUI\\Program.cs",
+              "ToolTip": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\GUI\\Program.cs",
+              "RelativeToolTip": "src\\GUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:30:39.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LineS.cs",
+              "DocumentMoniker": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Model\\LineS.cs",
+              "RelativeDocumentMoniker": "src\\Model\\LineS.cs",
+              "ToolTip": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Model\\LineS.cs",
+              "RelativeToolTip": "src\\Model\\LineS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:29:53.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PointS.cs",
+              "DocumentMoniker": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Model\\PointS.cs",
+              "RelativeDocumentMoniker": "src\\Model\\PointS.cs",
+              "ToolTip": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Model\\PointS.cs",
+              "RelativeToolTip": "src\\Model\\PointS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:21:30.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Elipsa.cs",
+              "DocumentMoniker": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Model\\Elipsa.cs",
+              "RelativeDocumentMoniker": "src\\Model\\Elipsa.cs",
+              "ToolTip": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Model\\Elipsa.cs",
+              "RelativeToolTip": "src\\Model\\Elipsa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:53:51.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RectangleShape.cs",
+              "DocumentMoniker": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Model\\RectangleShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\RectangleShape.cs",
+              "ToolTip": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Model\\RectangleShape.cs",
+              "RelativeToolTip": "src\\Model\\RectangleShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:40:37.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Model\\Shape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\Shape.cs",
+              "ToolTip": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Model\\Shape.cs",
+              "RelativeToolTip": "src\\Model\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:01:45.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "src\\GUI\\MainForm.cs",
+              "ToolTip": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\GUI\\MainForm.cs",
+              "RelativeToolTip": "src\\GUI\\MainForm.cs",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAAAHEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:18:15.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayProcessor.cs",
+              "DocumentMoniker": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Processors\\DisplayProcessor.cs",
+              "RelativeDocumentMoniker": "src\\Processors\\DisplayProcessor.cs",
+              "ToolTip": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Processors\\DisplayProcessor.cs",
+              "RelativeToolTip": "src\\Processors\\DisplayProcessor.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:55:00.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DialogProcessor.cs",
+              "DocumentMoniker": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Processors\\DialogProcessor.cs",
+              "RelativeDocumentMoniker": "src\\Processors\\DialogProcessor.cs",
+              "ToolTip": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\Processors\\DialogProcessor.cs",
+              "RelativeToolTip": "src\\Processors\\DialogProcessor.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAkwCcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:54:31.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "src\\GUI\\MainForm.cs",
+              "ToolTip": "D:\\vsichko keto nqma smisul\\nz\\gui\\src\\GUI\\MainForm.cs [Design]",
+              "RelativeToolTip": "src\\GUI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:09:31.676Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

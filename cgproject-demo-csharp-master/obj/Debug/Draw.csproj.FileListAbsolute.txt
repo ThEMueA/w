@@ -1,0 +1,176 @@
+D:\users\fmi\Downloads\draw-2024-2025_0\SharpDevelop2-WinForms\bin\Debug\Draw.exe
+D:\users\fmi\Downloads\draw-2024-2025_0\SharpDevelop2-WinForms\bin\Debug\Draw.pdb
+D:\users\fmi\Downloads\draw-2024-2025_0\SharpDevelop2-WinForms\obj\Debug\Draw.csproj.AssemblyReference.cache
+D:\users\fmi\Downloads\draw-2024-2025_0\SharpDevelop2-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\users\fmi\Downloads\draw-2024-2025_0\SharpDevelop2-WinForms\obj\Debug\Draw.MainForm.resources
+D:\users\fmi\Downloads\draw-2024-2025_0\SharpDevelop2-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\users\fmi\Downloads\draw-2024-2025_0\SharpDevelop2-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\users\fmi\Downloads\draw-2024-2025_0\SharpDevelop2-WinForms\obj\Debug\Draw.exe
+D:\users\fmi\Downloads\draw-2024-2025_0\SharpDevelop2-WinForms\obj\Debug\Draw.pdb
+D:\users\fmi\Downloads\draw-2024-2025_0\SharpDevelop2-WinForms\obj\Debug\Draw.Properties.Resources.resources
+d:\users\fmi\Desktop\New folder (4)\gui\bin\Debug\Draw.exe
+d:\users\fmi\Desktop\New folder (4)\gui\bin\Debug\Draw.pdb
+d:\users\fmi\Desktop\New folder (4)\gui\obj\Debug\Draw.csproj.AssemblyReference.cache
+d:\users\fmi\Desktop\New folder (4)\gui\obj\Debug\Draw.Properties.Resources.resources
+d:\users\fmi\Desktop\New folder (4)\gui\obj\Debug\Draw.DoubleBufferedPanel.resources
+d:\users\fmi\Desktop\New folder (4)\gui\obj\Debug\Draw.MainForm.resources
+d:\users\fmi\Desktop\New folder (4)\gui\obj\Debug\Draw.csproj.GenerateResource.cache
+d:\users\fmi\Desktop\New folder (4)\gui\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\New folder (4)\gui\obj\Debug\Draw.exe
+d:\users\fmi\Desktop\New folder (4)\gui\obj\Debug\Draw.pdb
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\Draw.exe.config
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\Draw.exe
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\Draw.pdb
+D:\vsichko keto nqma smisul\nz\gui\obj\Debug\Draw.csproj.AssemblyReference.cache
+D:\vsichko keto nqma smisul\nz\gui\obj\Debug\Draw.Properties.Resources.resources
+D:\vsichko keto nqma smisul\nz\gui\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\vsichko keto nqma smisul\nz\gui\obj\Debug\Draw.MainForm.resources
+D:\vsichko keto nqma smisul\nz\gui\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\vsichko keto nqma smisul\nz\gui\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\vsichko keto nqma smisul\nz\gui\obj\Debug\Draw.exe
+D:\vsichko keto nqma smisul\nz\gui\obj\Debug\Draw.pdb
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\netstandard.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.AppContext.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Collections.Concurrent.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Collections.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Collections.NonGeneric.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Collections.Specialized.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.ComponentModel.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.ComponentModel.Primitives.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Console.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Data.Common.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Diagnostics.Contracts.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Diagnostics.Debug.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Diagnostics.Process.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Diagnostics.Tools.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Diagnostics.Tracing.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Drawing.Primitives.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Dynamic.Runtime.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Globalization.Calendars.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Globalization.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Globalization.Extensions.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.IO.Compression.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.IO.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.IO.FileSystem.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.IO.IsolatedStorage.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.IO.Pipes.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Linq.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Linq.Expressions.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Linq.Parallel.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Linq.Queryable.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Net.Http.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Net.NameResolution.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Net.NetworkInformation.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Net.Ping.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Net.Primitives.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Net.Requests.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Net.Security.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Net.Sockets.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Net.WebSockets.Client.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Net.WebSockets.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.ObjectModel.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Reflection.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Reflection.Extensions.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Reflection.Primitives.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Resources.Reader.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Resources.ResourceManager.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Resources.Writer.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Runtime.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Runtime.Extensions.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Runtime.Handles.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Runtime.InteropServices.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Runtime.Numerics.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Security.Claims.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Security.Principal.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Security.SecureString.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Text.Encoding.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Text.RegularExpressions.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Threading.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Threading.Overlapped.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Threading.Tasks.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Threading.Thread.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Threading.ThreadPool.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Threading.Timer.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Xml.ReaderWriter.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Xml.XDocument.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Xml.XmlDocument.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Xml.XmlSerializer.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Xml.XPath.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Buffers.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Memory.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Numerics.Vectors.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Text.Encodings.Web.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Text.Json.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.ValueTuple.dll
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Buffers.xml
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Memory.xml
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Numerics.Vectors.xml
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Text.Encodings.Web.xml
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Text.Json.xml
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\vsichko keto nqma smisul\nz\gui\bin\Debug\System.ValueTuple.xml
+D:\vsichko keto nqma smisul\nz\gui\obj\Debug\Draw.csproj.Up2Date
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\Draw.exe.config
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\Draw.exe
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\Draw.pdb
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Buffers.dll
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Memory.dll
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Numerics.Vectors.dll
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Text.Encodings.Web.dll
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Text.Json.dll
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.ValueTuple.dll
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Buffers.xml
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Memory.xml
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Numerics.Vectors.xml
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Text.Encodings.Web.xml
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Text.Json.xml
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\bin\Debug\System.ValueTuple.xml
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\obj\Debug\Draw.csproj.AssemblyReference.cache
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\obj\Debug\Draw.Properties.Resources.resources
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\obj\Debug\Draw.MainForm.resources
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\obj\Debug\Draw.csproj.CopyComplete
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\obj\Debug\Draw.exe
+D:\users\fmi\Downloads\cgproject-demo-csharp-master\cgproject-demo-csharp-master\obj\Debug\Draw.pdb

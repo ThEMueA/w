@@ -1,0 +1,8 @@
+
+			statusBar.Items[0].Text = "Последно действие: Рисуване на ttt";
+
+            dialogProcessor.AddTriangle();
+
+           
+
+            viewPort.Invalidate();
